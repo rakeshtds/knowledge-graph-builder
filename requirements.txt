@@ -1,0 +1,6 @@
+networkx>=3.2
+pypdf>=4.2
+requests>=2.32
+beautifulsoup4>=4.12
+pyvis>=0.3.2
+openai>=1.30
